@@ -1,0 +1,41 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 850M   (ID=0x1391)
+    Vendor:   NVIDIA
+    VRAM:     1996 MB
+    Driver:   9.18.13.5012
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Projekty\Unity\Wrobel_Michal_Projekt2\Game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Projekty\Unity\Wrobel_Michal_Projekt2\Game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Projekty\Unity\Wrobel_Michal_Projekt2\Game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Projekty\Unity\Wrobel_Michal_Projekt2\Game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Projekty\Unity\Wrobel_Michal_Projekt2\Game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Projekty\Unity\Wrobel_Michal_Projekt2\Game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Projekty\Unity\Wrobel_Michal_Projekt2\Game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Projekty\Unity\Wrobel_Michal_Projekt2\Game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Projekty\Unity\Wrobel_Michal_Projekt2\Game_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\Projekty\Unity\Wrobel_Michal_Projekt2\Game_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.022 seconds
+Platform assembly: D:\Projekty\Unity\Wrobel_Michal_Projekt2\Game_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Projekty\Unity\Wrobel_Michal_Projekt2\Game_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.574702 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.841037 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2987.
+Total: 1.147304 ms (FindLiveObjects: 0.230927 ms CreateObjectMapping: 0.046551 ms MarkObjects: 0.841234 ms  DeleteObjects: 0.027491 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.925858 ms
+
+Unloading 195 unused Assets to reduce memory usage. Loaded Objects now: 298.
+Total: 0.451957 ms (FindLiveObjects: 0.045818 ms CreateObjectMapping: 0.016128 ms MarkObjects: 0.266115 ms  DeleteObjects: 0.123161 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: acc -> priority: 1 
